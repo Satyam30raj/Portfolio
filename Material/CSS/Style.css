@@ -402,8 +402,7 @@ body.dark #moon {
 
 .btn_2 {
     margin-left: 1vw;
-    background: var(--medium-dark);
-    color: var(--first_color);
+    background: var(--first_color);
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
 }
 
