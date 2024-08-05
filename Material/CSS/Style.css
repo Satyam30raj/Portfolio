@@ -380,7 +380,7 @@ body.dark #moon {
 }
 
 .hero_box .hero_btn {
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .hero_box button {
@@ -401,10 +401,9 @@ body.dark #moon {
 }
 
 .btn_2 {
-    margin-left: 2vw;
-    top: auto;
-    background: var(--first_color);
-    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+    margin-left: 1vw;
+    background:rgb(216, 169, 106);
+    box-shadow: 0px 0px 5px 1px rgba(229, 184, 88, 0.1);
 }
 
 .btn_2 a {
@@ -419,7 +418,7 @@ body.dark #moon {
 
 .btn_2:hover {
     color: var(--first_color);
-    background: var(--orange-color);
+    background: var(--medium-dark);
 }
 
 /* ===== HERO IMAGE BOX ===== */
